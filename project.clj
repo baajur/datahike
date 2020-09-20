@@ -9,7 +9,7 @@
                  [persistent-sorted-set     "0.1.2"]
                  [org.clojure/tools.reader "1.3.2"]
                  [environ "1.1.0"]
-                 [io.replikativ/hitchhiker-tree "0.1.8"]
+                 [io.replikativ/hitchhiker-tree "0.1.9"]
                  [io.lambdaforge/datalog-parser "0.1.1"]
                  [junit/junit "4.12"]]
 
